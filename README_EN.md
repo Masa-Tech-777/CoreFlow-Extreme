@@ -69,4 +69,4 @@ For support or to request a license reissue for the Astra series, please contact
 
 Developed by MasaTech / Itachi, Spica, and Mahiru
 Blog: [https://masatech.hatenablog.jp/]
-[BOOTH – MasaTech](https://masatech.booth.pm/)
+[BOOTH – MasaTech] (https://masatech.booth.pm/)
